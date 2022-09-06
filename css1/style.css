@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0%;
+    background-image: url(/image/backgrund.jpg);
+    background-size: cover;   
+  }
+
+.St{
+  color: rgb(0, 55, 255);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 40px;   
+  text-align: center;
+  padding-top: 100px;
+  margin-top: 100px;
+  }
+
+  p{
+  color: rgb(53, 62, 98);
+  font-family: fantasy;
+  font-size: 40px;   
+  text-align: center;
+  text-decoration: double;
+  
+  }
+
+  img{
+  border-radius: 300px;
+  margin-left: 50px;
+  padding-top: 10px;
+  width: 250px;
+  position: absolute;
+  top: 60px;
+  text-align: center;
+  } 
+ 
+.prg{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  font-weight: 100;
+  text-align: center;
+  color: rgb(163, 166, 227);
+    
+  }
+   
+  h1{
+  font-family: cursive;
+  font-style: italic;
+  font-size: 40px;
+  text-align: center;
+  color: purple;
+  margin: 100px;
+  padding: 100px; 
+  }
+  form{
+  text-align: center;
+  color: lightcoral;
+  font-size: 25px;
+  }
+
+  .btn{
+  color: blue;
+  font-family: fantasy;
+  text-align: center;
+  font-size: 30px;
+  }  
+
+  h4{
+  color: darkgoldenrod;
+  font-size: 35px;
+  font-family: cursive;
+  }
+  .gog{
+  font-size: 30px;
+  text-align: left;
+  padding: 20px;
+  margin: 20px;
+ 
+  }
+
+  ul {
+  font-size: 30px;
+  color: rgb(84, 22, 218);
+  padding: 20px;
+  margin: 20px;
+  }
+
+  .box {
+    font-size: 30px;
+    color: rgb(84, 22, 218);
+    padding: 20px;
+    margin: 20px;
+    position: left;
+    float: right;
+    }
+   .box:hover{
+    color: aqua;
+    background-color: rgb(175, 204, 211);
+    transition: 0.5s; 
+    }
+
+   i{
+    font-size: 35px;
+    color: brown;
+    font-family: fantasy;
+      }
